@@ -28,3 +28,10 @@ function draw() {
     }
   }
 }
+
+// PALETTE
+// black    (47)
+// magenta  color('#c36')
+// green    color('#6c3')
+// blue     color('#36c')
+// white    (255)
